@@ -18,7 +18,7 @@ Usally used command in Maven:
 
 3. mvn package: take the compiled code and package it in its distributable format, such as a JAR.
 
-4. mvn clean: attempts to clean a project's working directory of the files that we're generated at build-time
+4. mvn clean: delete the targe file;attempts to clean a project's working directory of the files that we're generated at build-time
 
 5.mvn install: used to automatically install the project's main artifact (the JAR, WAR or EAR), its POM and any attached artifacts (sources, javadoc, etc) produced by a particular project.
 
